@@ -13,7 +13,6 @@ The notebook walks through the entire process, including data preprocessing, fea
 3. [Features](#features)
 4. [Usage](#usage)
 5. [Model Evaluation](#model-evaluation)
-6. [License](#license)
 
 ## Installation
 To run the notebook, ensure you have Python 3.x installed, along with the required libraries. You can install all dependencies using the following command:
@@ -56,6 +55,4 @@ jupyter notebook phishing.ipynb
 ## Model Evaluation
 The notebook provides an evaluation of the model's performance based on various metrics like precision, recall, and F1-score, along with a confusion matrix visualization.
 
-
-```
 
