@@ -1,6 +1,5 @@
-Here is the code for the `README.md` file based on your Jupyter Notebook for phishing detection:
 
-```markdown
+
 # Phishing Detection using Machine Learning
 
 ## Overview
@@ -21,7 +20,7 @@ To run the notebook, ensure you have Python 3.x installed, along with the requir
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 Or install the necessary libraries manually:
 
