@@ -59,4 +59,3 @@ The notebook provides an evaluation of the model's performance based on various 
 
 ```
 
-This will give you a well-structured `README.md` file for the project. You can adjust the details or content as needed to better match your specific notebook.
